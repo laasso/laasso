@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">I'm a SysAdmin/Developer from Barcelona, checkout my personal projects!</h3>
+<h3 align="center">I'm a SysAdmin from Barcelona, checkout my personal projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laasso&label=Profile%20views&color=0e75b6&style=flat" alt="laasso" /> </p>
 
@@ -8,6 +8,8 @@
 - 📫 How to reach me **lasso@lasso.cat**
 
 - 📄 Know about my experiences [www.linkedin.com/in/nrubi](www.linkedin.com/in/nrubi)
+
+- ❤️ OpenSource lover 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
