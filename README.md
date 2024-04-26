@@ -58,7 +58,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    You can reach me at [<a href="mailto:lasso@lasso.cat">e-mail</a>]
+    You can reach me at [<a href="mailto:lasso@lasso.cat">lasso@lasso.cat</a>]
   </samp>
 </p>
 
