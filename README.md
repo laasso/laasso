@@ -16,6 +16,11 @@
       <b>
         ~ Nicolás Rubiales Guerrero ~
       </b>
+<div align="center">
+  <a href="https://open.spotify.com/user/58x2z1bxwv7vxa43n7eub5x81">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=58x2z1bxwv7vxa43n7eub5x81&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
