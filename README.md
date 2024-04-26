@@ -2,7 +2,6 @@
 <div align="justify">
 
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
       <b>
@@ -43,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
 <div align="center">
