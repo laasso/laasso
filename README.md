@@ -10,10 +10,7 @@
         I'm lasso, a Student, I like Penguins and Apples, but I don't like Windows.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=coding+while+listening+to+music.">
-      </br>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=tech+entusiast">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=27F7A8&center=true&vCenter=true&random=false&width=435&lines=if+music+!%3D+playing%3A+coding+%3D+False">
       </br>
       <b>
         ~ Nicolás Rubiales Guerrero ~
